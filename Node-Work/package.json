@@ -1,0 +1,25 @@
+{
+  "name": "node-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "10-fs-sync.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bashiruu1/Node-Work.git"
+  },
+  "author": "Usman Bashiru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bashiruu1/Node-Work/issues"
+  },
+  "homepage": "https://github.com/Bashiruu1/Node-Work#readme",
+  "dependencies": {
+    "debug": "^4.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
